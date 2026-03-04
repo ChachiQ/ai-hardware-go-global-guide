@@ -1,0 +1,38 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.kickstarter.com)",
+      "WebSearch",
+      "WebFetch(domain:www.gadget-labs.com)",
+      "WebFetch(domain:zhuanlan.zhihu.com)",
+      "WebFetch(domain:www.launchboom.com)",
+      "WebFetch(domain:www.geekpark.net)",
+      "Bash(gh auth:*)",
+      "Bash(gh repo:*)",
+      "WebFetch(domain:www.dfrobot.com)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:www.crunchbase.com)",
+      "WebFetch(domain:www.hackster.io)",
+      "WebFetch(domain:tracxn.com)",
+      "WebFetch(domain:wiki.dfrobot.com)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:libraries.io)",
+      "WebFetch(domain:community.dfrobot.com)",
+      "WebFetch(domain:medium.com)",
+      "WebFetch(domain:twitter.com)",
+      "WebFetch(domain:www.instagram.com)",
+      "WebFetch(domain:x.com)",
+      "WebFetch(domain:www.prnewswire.com)",
+      "WebFetch(domain:socialblade.com)",
+      "WebFetch(domain:www.linkedin.com)",
+      "WebFetch(domain:makezine.com)",
+      "WebFetch(domain:openelab.io)",
+      "Bash(git push:*)",
+      "Bash(grep:*)",
+      "Bash(wc:*)",
+      "Bash(git mv:*)",
+      "Bash(git remote:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
