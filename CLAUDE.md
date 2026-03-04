@@ -10,7 +10,7 @@ This is a **strategic research knowledge base** for a Chengdu-based AI hardware 
 
 **Target company:** A Chengdu AI hardware company building edge AI devices for developers/makers and the education market (universities, K12, government demonstration projects). Founded 2025, going global from zero.
 
-**Closest comparables:** M5Stack (most similar model), DFRobot (education pathway reference).
+**Closest comparables:** M5Stack (most similar model), DFRobot (education pathway reference), Seeed Studio (platform model reference).
 
 ## Content Categories
 
@@ -18,7 +18,7 @@ The repository contains and will expand to include:
 
 | Category | Description | Example |
 |----------|-------------|---------|
-| **Competitor Case Studies** | Deep-dive analysis of peer companies (10-chapter template) | DFRobot, M5Stack |
+| **Competitor Case Studies** | Deep-dive analysis of peer companies (10-chapter template) | DFRobot, M5Stack, Seeed Studio |
 | **Go-to-Market Guides** | Step-by-step playbooks for overseas expansion | Crowdfunding → DTC → Amazon → distributors |
 | **Product Strategy** | Hardware/software architecture, SDK design, AI model strategy | _(future)_ |
 | **Community Planning** | Developer community building, open-source strategy | _(future)_ |
@@ -31,6 +31,7 @@ research/
   ai-hardware-go-global-guide.md   — Master go-to-market playbook (~1,500 lines)
   dfrobot-case-study.md            — DFRobot growth path analysis (~1,400 lines)
   m5stack-case-study.md            — M5Stack growth path analysis (~1,400 lines)
+  seeed-case-study.md              — Seeed Studio growth path analysis (~1,400 lines)
 ```
 
 New documents go into `research/` as flat files. Subdirectories only when the count warrants it.
@@ -64,6 +65,7 @@ Each chapter ends with **"对你的启示"** section split into `可以直接照
   - StackChan: HK$3,582,197 / 4,142 backers / 4,593%
   - DFRobot: 8,544 Hackster members / $6.99M funding / 478 GitHub repos
   - M5Stack: 5,856 Hackster members / ~35% Japan market share / 615+ SKUs
+  - Seeed Studio: 24,097 Hackster members / $15.71M funding / 492 GitHub repos / RMB 7.49亿 revenue (2022) / 91.49% overseas
 - All data from public sources. Estimates must be labeled as such
 - When adding new data, verify it doesn't contradict existing documents
 
