@@ -1268,8 +1268,8 @@ Py4OH不仅是开发者工具，更是**Co-Agent的Python SDK桥梁**。
 
 | 文件 | 引用内容 | 行号 |
 |------|---------|------|
-| `idea/mimiclaw-product-analysis.md` | PDP协议规范/产品BOM/海外竞品/社区策略 | 全文 |
+| `strategy/mimiclaw-product-analysis.md` | PDP协议规范/产品BOM/海外竞品/社区策略 | 全文 |
 | `research/dfrobot-case-study.md` | 教育市场转型剧本/10,000+学校/Mind+ 500万用户 | 264-414 |
 | `research/seeed-case-study.md` | 柴火成都站/47所学校/潘昊四川背景 | 663-712 |
 | `research/m5stack-case-study.md` | "成都高校资源和教育市场是独特优势" | 70-82 |
-| `research/ai-hardware-go-global-guide.md` | 出海渠道生命周期/定价策略 | 全文 |
+| `strategy/ai-hardware-go-global-guide.md` | 出海渠道生命周期/定价策略 | 全文 |

@@ -27,14 +27,20 @@ The repository contains and will expand to include:
 ## Repository Structure
 
 ```
-research/
-  ai-hardware-go-global-guide.md   — Master go-to-market playbook (~1,500 lines)
-  dfrobot-case-study.md            — DFRobot growth path analysis (~1,400 lines)
-  m5stack-case-study.md            — M5Stack growth path analysis (~1,400 lines)
-  seeed-case-study.md              — Seeed Studio growth path analysis (~1,400 lines)
+research/                              — External company case studies
+  dfrobot-case-study.md                — DFRobot growth path analysis (~1,400 lines)
+  m5stack-case-study.md                — M5Stack growth path analysis (~1,400 lines)
+  seeed-case-study.md                  — Seeed Studio growth path analysis (~1,400 lines)
+
+strategy/                              — Company strategy documents
+  ai-hardware-go-global-guide.md       — Master go-to-market playbook (~1,500 lines)
+  mimiclaw-product-analysis.md         — MimiClaw product analysis (~857 lines)
+  domestic-market-strategy.md          — Domestic market strategy (~1,275 lines)
+
+idea/                                  — Future idea exploration (currently empty)
 ```
 
-New documents go into `research/` as flat files. Subdirectories only when the count warrants it.
+Case studies go into `research/`, strategy docs into `strategy/`, new ideas into `idea/`.
 
 ## Writing Standards
 
