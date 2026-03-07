@@ -31,6 +31,7 @@ research/                              — External company case studies
   dfrobot-case-study.md                — DFRobot growth path analysis (~1,400 lines)
   m5stack-case-study.md                — M5Stack growth path analysis (~1,400 lines)
   seeed-case-study.md                  — Seeed Studio growth path analysis (~1,400 lines)
+  aidlux-analysis.md                   — AidLux "chip giant" strategy analysis (~900 lines)
 
 strategy/                              — Company strategy documents
   ai-hardware-go-global-guide.md       — Master go-to-market playbook (~1,500 lines)
