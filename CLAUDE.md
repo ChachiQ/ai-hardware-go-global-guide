@@ -36,6 +36,8 @@ strategy/                              — Company strategy documents
   ai-hardware-go-global-guide.md       — Master go-to-market playbook (~1,500 lines)
   mimiclaw-product-analysis.md         — MimiClaw product analysis (~857 lines)
   domestic-market-strategy.md          — Domestic market strategy (~1,275 lines)
+  design-house-insight.md             — Design House industry insight report (~1,200 lines)
+  design-house-strategy.md            — Design House internal strategy (~800 lines)
 
 idea/                                  — Future idea exploration (currently empty)
 ```
@@ -92,11 +94,12 @@ When creating new case studies or updating existing ones:
 
 ## Key Strategic Context
 
-Five core conclusions established across the research:
+Six core conclusions established across the research:
 1. **Packaging = Brand** (M5Stack proved it with ESP32)
 2. **Partner-led global expansion** beats opening overseas offices (initially)
 3. **SDK open-source / AI model closed-source** — the new paradigm
 4. **Crowdfunding before VC** — zero dilution + validation + seed users
 5. **Unified SDK locks in ecosystem** (M5Unified pattern)
+6. **Design House > Product Company** — lighter assets, higher margins (50-75%), reusable solutions. M5Stack's acquisition by Espressif is the cautionary tale
 
 Time window: **2023-2028** is the optimal entry period for edge AI hardware.
