@@ -32,7 +32,31 @@
       "Bash(wc:*)",
       "Bash(git mv:*)",
       "Bash(git remote:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "WebFetch(domain:www.seeedstudio.com)",
+      "WebFetch(domain:www.chaihuo.org)",
+      "WebFetch(domain:www.cherrypicksreviews.com)",
+      "WebFetch(domain:www.seeed.cc)",
+      "WebFetch(domain:parsers.vc)",
+      "WebFetch(domain:www.shenzhenmakerfaire.com)",
+      "Bash(curl:*)",
+      "Bash(xargs ls:*)",
+      "Bash(ls:*)",
+      "Bash(git:*)",
+      "Bash(gh api:*)",
+      "WebFetch(domain:developer.d-robotics.cc)",
+      "WebFetch(domain:www.openatom.org)",
+      "WebFetch(domain:developer.huawei.com)",
+      "WebFetch(domain:www.elecfans.com)",
+      "WebFetch(domain:www.pandaboard.cn)",
+      "WebFetch(domain:www.hisilicon.com)",
+      "WebFetch(domain:www.listenai.com)",
+      "WebFetch(domain:docs2.listenai.com)",
+      "WebFetch(domain:forums.pandaboard.cn)",
+      "WebFetch(domain:aijishu.com)",
+      "WebFetch(domain:blog.csdn.net)",
+      "WebFetch(domain:ost.51cto.com)"
     ]
   }
 }
